@@ -14,4 +14,7 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	$('#acerca').tap(function (e) {
+ 	 $.mobile.navigate( "#acer" );
+	});
 });//ready
